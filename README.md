@@ -1,2 +1,1 @@
-# Shichor_Project
-maven project
+# maven project
